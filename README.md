@@ -66,8 +66,6 @@ Intended Benefit in your own words: It replaces manual logs, reduces double-book
 
 \- FR-04:50% Front-Desk Savings - Less phone query time within three months.
 
-\- FR-05:95%+ Inventory Accuracy - Digital stock matches physical stock. 
-
 \## Assumptions and open questions
 
 \- Assumption A-01: The salon will have stable internet, and clients and staff will have smartphones with internet access.
